@@ -8,9 +8,41 @@
 
 The FAA allows holders of foreign pilot licences from ICAO contracting states to obtain a U.S. Private Pilot Certificate **without any further showing of proficiency**. This is codified in **14 CFR § 61.75**.
 
-> *"A person who holds a current foreign pilot license issued by a contracting State to the Convention on International Civil Aviation may apply for and be issued a private pilot certificate with the appropriate ratings."*
+> *"A person who holds a foreign pilot license **at the private pilot level or higher** that was issued by a contracting State to the Convention on International Civil Aviation may apply for and be issued a private pilot certificate with the appropriate ratings."*
 
-The resulting certificate is a **Foreign-Based Private Pilot Certificate** – it is valid only as long as your EASA SPL remains valid.
+---
+
+## Why Your EASA SPL Qualifies
+
+This is a common question: **"Is my EASA SPL really at the private pilot level?"**
+
+The short answer is **yes**. Here is the legal basis:
+
+### 1. The EASA SPL is a "Private Pilot Level" Licence
+
+The FAA explicitly states that a foreign license used for this conversion must be **"at the private pilot license level or higher"**.
+
+The EASA SPL meets this criteria because:
+
+- It allows you to exercise **private pilot privileges** (SFCL.115)
+- It permits the **carriage of passengers** (after meeting additional experience requirements)
+- It is recognized as an **ICAO-compliant licence**
+- It is grouped together with the PPL(A) in EASA regulations as a licence that allows you to **exercise pilot privileges internationally**
+
+### 2. The FAA's Own Classification
+
+The FAA's **Order 8900.1** (Volume 5, Chapter 2, Section 4) explicitly lists the EASA SPL as an acceptable license for conversion under 14 CFR § 61.75, confirming it is considered to be at the private pilot level.
+
+### 3. What "Private Pilot Level" Means
+
+| Licence | ICAO Compliant? | Private Pilot Level? |
+|---------|-----------------|---------------------|
+| EASA SPL | **Yes** | **Yes** |
+| EASA LAPL(S) | **No** | **No** (sub-ICAO) |
+| EASA PPL(A) | **Yes** | **Yes** |
+| FAA Sport Pilot | **No** | **No** |
+
+Your EASA SPL is at the **private pilot level**, making it eligible for conversion under 14 CFR § 61.75.
 
 ---
 
@@ -20,13 +52,11 @@ Under **14 CFR § 61.75(b)**, you must:
 
 | Requirement | Details |
 |-------------|---------|
-| **Valid foreign licence** | Your EASA SPL must be current and not revoked/suspended |
-| **No existing U.S. certificate** | You cannot currently hold a U.S. pilot certificate |
-| **Medical certificate** | EASA Part-MED Class 2 (or FAA Part 67 medical) |
+| **Valid foreign licence** | Your EASA SPL must be at the private pilot level or higher |
+| **No existing U.S. certificate** | You cannot currently hold a U.S. pilot certificate (other than a student pilot certificate) |
+| **Medical certificate** | EASA Part-MED Class 2 **or** FAA Part 67 medical certificate |
 | **English proficiency** | Must be able to read, speak, write, and understand English |
-| **ICAO compliance** | Your licence must not contain an endorsement stating it does not meet ICAO standards |
-
-Your EASA SPL is at the **private pilot level or higher**, which is the minimum required for this conversion.
+| **ICAO compliance** | Your licence must not contain a limitation stating you have not met ICAO standards |
 
 ---
 
@@ -35,59 +65,56 @@ Your EASA SPL is at the **private pilot level or higher**, which is the minimum 
 | Feature | Details |
 |---------|---------|
 | **Certificate type** | U.S. Private Pilot Certificate (Foreign-Based) |
-| **Rating** | Glider category rating |
+| **Rating** | Glider category rating (appropriate ratings from your foreign licence) |
 | **Privileges** | Private pilot privileges in U.S.-registered (N-number) aircraft |
 | **Validity** | Tied to your EASA SPL – if your SPL is suspended/revoked, the FAA certificate becomes invalid |
-| **Instrument rating** | Can be added if your EASA SPL includes instrument privileges (requires passing FAA instrument knowledge test) |
+| **Certificate notation** | Will specify your foreign licence number and country of issuance |
 
 ---
 
 ## Step-by-Step Process
 
-### Step 1: Create an IACRA Account
+### Step 1: Verify Your Licence (The Longest Step)
 
-1. Go to **https://iacra.faa.gov**
-2. Register as an **"Applicant"**
-3. Record your **FTN (File Transfer Number)** – you will need it for all follow-ups
-
-### Step 2: Submit Verification of Authenticity Request
-
-This is the longest step – **do not schedule any travel or checkrides until this is complete**.
+You must request the FAA to verify the authenticity of your EASA SPL with your national aviation authority.
 
 **Option A: Electronically via IACRA (Preferred)**
-- Log in to IACRA and select **"Start Foreign Verification Process"**
-- Upload a legible copy of your EASA SPL
-- The request is sent to your national aviation authority (CAA) for verification
+1. Go to **https://iacra.faa.gov** and register for an **"Applicant"** account
+2. Log in and select **"START FOREIGN VERIFICATION PROCESS"**
+3. Upload a legible copy of your EASA SPL
 
 **Option B: By Mail**
 - Complete **FAA Form AC 8060-71** (Verification of Authenticity of Foreign License and Medical Certification)
 - Mail to: FAA Airmen Certification Branch AFB-720, Foreign Verification P.O. Box 25082 Oklahoma City, OK 73125-0082
-- Include a copy of your foreign licence (and medical if you want it verified)
+- Include a copy of your foreign licence
 
-**Timeline:** The verification process takes approximately **45 to 90 days**.
+**Timeline:** The verification process takes approximately **45 to 90 days**. Start this well in advance.
 
 **Validity:** The verification letter is valid for **6 months**.
 
-### Step 3: Receive Verification Letter
+### Step 2: Receive Verification Letter
 
 - A copy is uploaded to your IACRA account
-- If submitted by mail, a copy will be mailed/emailed to you and to your selected FSDO
+- If submitted by mail, a copy will be sent to you and to your selected FAA Flight Standards District Office (FSDO)
+
+### Step 3: Complete FAA Form 8710-1
+
+Complete **FAA Form 8710-1** (Airman Certificate and/or Rating Application). You can print this from IACRA.
 
 ### Step 4: Schedule In-Person Appointment
 
-You must appear in person before an FAA-authorized official. You have two options:
+You must appear in person before an FAA-authorized official. You have **two options**:
 
 **Option A: FAA Flight Standards District Office (FSDO) in the U.S.**
 - Contact your selected FSDO upon receipt of the verification letter
 - **Do not anticipate an appointment earlier than two weeks** after initial contact
 - Example: Oakland FSDO – email `7-AWP-OAK-FSDO@faa.gov` or call (510) 748-0122
 
-**Option B: Designated Pilot Examiner – Foreign Pilot Examiner (DPE-FPE)**
+**Option B: Designated Pilot Examiner – Foreign Pilot Examiner (DPE-FPE) in Europe**
 - A **DPE-FPE** is a DPE with special authorisation to issue private pilot certificates based on foreign licences
-- **Search for a DPE-FPE** using the FAA Designee Locator: `https://designee.faa.gov/designeeLocator`
+- Search for a DPE-FPE using the FAA Designee Locator: `https://designee.faa.gov/designeeLocator`
 - Select **"DPE-FPE"** from the drop-down menu
-- Search in Europe (or globally)
-- Some flight schools in Europe (e.g., Aerocadet) have contracted DPE-FPEs on staff
+- Some flight schools in Europe have contracted DPE-FPEs on staff
 
 ### Step 5: Attend Appointment & Bring Required Documents
 
@@ -96,10 +123,10 @@ You must appear in person before an FAA-authorized official. You have two option
 | Document | Details |
 |----------|---------|
 | **Original Verification of Authenticity Letter** | From FAA Airmen Certification Branch |
-| **FAA Form 8710-1** (Airman Certificate and/or Rating Application) | Complete Sections I, II, III, IV, V |
-| **Current EASA SPL** | Original, valid, with ratings |
-| **Current medical certificate** | EASA Part-MED Class 2 (or FAA medical) |
-| **English proficiency** | ICAO Level 4 or higher on your licence – or demonstrated ability |
+| **FAA Form 8710-1** | Airman Certificate and/or Rating Application |
+| **Current EASA SPL** | Original, valid, with current ratings |
+| **Current medical certificate** | EASA Part-MED Class 2 **or** FAA Part 67 medical |
+| **English proficiency** | ICAO Level 4 or higher on your licence |
 | **Official passport** | Current, with complete legal name |
 
 ### Step 6: Receive Your Certificate
@@ -117,7 +144,7 @@ You must appear in person before an FAA-authorized official. You have two option
 |------------|-------------|
 | **Tied to foreign licence** | The FAA certificate is only valid while your EASA SPL remains valid |
 | **Private pilot privileges only** | You cannot exercise commercial privileges |
-| **Foreign licence limitations apply** | Any limitations on your EASA SPL (e.g., "not valid for night") are carried over |
+| **Foreign licence limitations apply** | Any limitations on your EASA SPL are carried over |
 | **No upgrade path** | You cannot use this certificate as the basis for a Commercial Pilot Certificate without additional FAA testing |
 | **One foreign licence only** | Only one foreign pilot licence may be used as the basis |
 
@@ -128,10 +155,8 @@ You must appear in person before an FAA-authorized official. You have two option
 If your EASA SPL includes instrument privileges, you may add an instrument rating to your U.S. certificate provided:
 
 1. Your EASA SPL authorises instrument privileges
-2. Within 24 months preceding application, you pass the FAA instrument knowledge test
+2. Within **24 months** preceding application, you pass the FAA instrument knowledge test
 3. You can read, speak, write, and understand English
-
-> *"A person who holds an instrument rating on the foreign pilot license issued by a contracting State ... may be issued an instrument rating on a U.S. private pilot certificate provided: the person's foreign pilot license authorizes instrument privileges; within 24 months preceding the month in which the person applies for the instrument rating, the person passes the appropriate knowledge test."*
 
 ---
 
@@ -140,19 +165,19 @@ If your EASA SPL includes instrument privileges, you may add an instrument ratin
 | Requirement | Details |
 |-------------|---------|
 | **Flight Review** | Required every 24 calendar months (14 CFR § 61.56) |
-| **Medical** | Must maintain valid medical (EASA Part-MED Class 2 or FAA) |
+| **Medical** | Must maintain valid medical (EASA Part-MED Class 2 **or** FAA) |
 | **Foreign licence** | Must keep your EASA SPL valid and current |
 | **Currency** | Must meet FAA recency requirements (14 CFR § 61.57) |
-| **When flying outside U.S.** | If operating a U.S.-registered aircraft outside the U.S., you do not need to meet Part 61 requirements (including flight review) |
 
 ---
 
 ## Summary Checklist
 
-- [ ] Create IACRA account (iacra.faa.gov)
-- [ ] Submit Verification of Authenticity (Form AC 8060-71 via IACRA or mail)
+- [ ] Create IACRA account (`iacra.faa.gov`)
+- [ ] Submit Verification of Authenticity (via IACRA or Form AC 8060-71 by mail)
 - [ ] Wait 45-90 days for verification
 - [ ] Receive Verification Letter (valid 6 months)
+- [ ] Complete FAA Form 8710-1
 - [ ] Schedule appointment with FAA FSDO (U.S.) or DPE-FPE (Europe)
 - [ ] Prepare documents: Verification Letter, FAA Form 8710-1, EASA SPL, medical, passport
 - [ ] Attend appointment – receive temporary certificate
@@ -171,17 +196,29 @@ If your EASA SPL includes instrument privileges, you may add an instrument ratin
 | **FAA Form 8710-1** | Airman Certificate and/or Rating Application |
 | **AC 61-143** | Conversion Process for Pilot Certificates – FAA/EASA BASA TIP-L |
 | **14 CFR § 61.75** | Private pilot certificate issued on basis of foreign pilot license |
-| **Oakland FSDO (example)** | 7-AWP-OAK-FSDO@faa.gov | (510) 748-0122 |
+| **Oakland FSDO (example)** | `7-AWP-OAK-FSDO@faa.gov` | (510) 748-0122 |
+| **FAA Order 8900.1** | Flight Standards Information Management System |
 
 ---
 
 ## Notes for European-Based Applicants
 
 - **You do not necessarily need to travel to the U.S.** – a DPE-FPE in Europe can issue your certificate
-- **DPEs for EASA conversions** are authorised to process foreign-based certificates
-- **Search the Designee Locator** for **DPE-FPE** in your region or globally
+- **Search the Designee Locator** for **DPE-FPE** in your region
 - **Contact flight schools** that operate U.S.-registered (N-number) aircraft – they often have arrangements with DPE-FPEs
+- **Your EASA SPL must be in English** or accompanied by an English transcription signed by your national aviation authority
 
 ---
 
-*Sources: 14 CFR § 61.75; FAA Airmen Certification Branch; FAA Oakland FSDO; FAA Designee FAQs; Advisory Circular 61-143*
+## Quick Reference: Why SPL = Private Pilot Level
+
+| Source | Statement |
+|--------|-----------|
+| **14 CFR § 61.75** | Requires foreign license *"at the private pilot level or higher"* |
+| **FAA Order 8900.1** | Explicitly lists EASA SPL as acceptable for conversion |
+| **EASA Part-SFCL** | SPL allows exercise of private pilot privileges |
+| **ICAO Annex 1** | SPL is an ICAO-compliant licence at the private pilot level |
+
+---
+
+*Sources: 14 CFR § 61.75; FAA Airmen Certification Branch; FAA Oakland FSDO; FAA Designee FAQs; Advisory Circular 61-143; FAA Order 8900.1*
