@@ -222,3 +222,130 @@ If your EASA SPL includes instrument privileges, you may add an instrument ratin
 ---
 
 *Sources: 14 CFR § 61.75; FAA Airmen Certification Branch; FAA Oakland FSDO; FAA Designee FAQs; Advisory Circular 61-143; FAA Order 8900.1*
+
+
+
+
+
+---
+
+# Appendix A: ICAO Legal Framework for SPL to FAA Conversion
+
+*Legal basis for EASA SPL → FAA Private Pilot Certificate under ICAO Annex 1 and 14 CFR § 61.75*
+
+---
+
+## ICAO Annex 1 – Personnel Licensing
+
+**Chapter 2 – Licences and Ratings for Pilots**
+
+**2.9 Glider pilot licence – Experience requirements**
+
+> *"The applicant shall have completed not less than **15 hours of flight time** as a pilot of gliders including **two hours of solo flight time** during which not less than **40 launches and landings** have been performed."*
+
+**Licence categories recognised:**
+
+1. Private pilot (aeroplane, helicopter, powered-lift, airship)
+2. Commercial pilot
+3. Multi-crew pilot
+4. Airline transport pilot
+5. **Glider pilot** ← *Your SPL*
+6. Free balloon pilot
+
+---
+
+## EASA SPL – ICAO Compliance
+
+| ICAO Standard (Annex 1, 2.9) | EASA Part-SFCL | Status |
+|-----------------------------|----------------|--------|
+| 15 hours flight time | 15 hours (SFCL.130) | ✅ |
+| 2 hours solo | 2 hours (SFCL.130) | ✅ |
+| 40 launches/landings | 45 (SFCL.130) | ✅ exceeds |
+| ICAO Class 2 medical | Part-MED Class 2 | ✅ |
+| Private pilot level | SPL = private pilot level | ✅ |
+
+> *"The European sailplane licence SPL meets **all ICAO requirements** for gliding."* — German Aviation Authority (DFS)
+
+> *"The SPL complies with **all ICAO requirements** for gliding. With an ICAO Class 2 or ICAO Class 1 medical, the licence is valid **worldwide**."* — Belgian Gliding Training
+
+---
+
+## FAA 14 CFR § 61.75 – The Conversion
+
+### § 61.75(a) – Eligibility
+
+> *"A person who holds a **foreign pilot license at the private pilot level or higher** that was issued by a **contracting State to the Convention on International Civil Aviation** may apply for and be issued a **U.S. private pilot certificate** with the appropriate ratings."*
+
+### § 61.75(b) – Issuance Requirements
+
+> *"…**without any further showing of proficiency**, provided the applicant:*
+>
+> *(1) Holds a foreign pilot license **at the private pilot license level or higher**;*
+>
+> *(2) **Does not contain a limitation** stating the applicant has not met ICAO standards;*
+>
+> *(3) Does not hold a U.S. pilot certificate;*
+>
+> *(4) Holds a medical certificate **from the country that issued the foreign pilot license**;*
+>
+> *(5) Is able to read, speak, write, and understand English."*
+
+### § 61.75(c) – Ratings Transfer
+
+> *"Aircraft ratings listed on a person's foreign pilot license … may be placed on that person's U.S. pilot certificate."*
+
+### § 61.75(e) – Operating Limitations
+
+> *"A person who receives a U.S. private pilot certificate … is subject to the **limitations and restrictions on the person's U.S. certificate and foreign pilot license**."*
+
+---
+
+## Legal Chain Summary
+
+```
+ICAO Annex 1 (2.9) 
+  │
+  ├─ Recognises "Glider pilot licence"
+  ├─ Sets 15h / 2h solo / 40 launches
+  └─ Requires ICAO Class 2 medical
+        │
+        ▼
+EASA Part-SFCL (SPL)
+  │
+  ├─ Meets/exceeds ICAO standards
+  ├─ 15h / 2h solo / 45 launches
+  ├─ Part-MED Class 2 = ICAO Class 2
+  └─ Private pilot level
+        │
+        ▼
+14 CFR § 61.75 (FAA)
+  │
+  ├─ Requires foreign licence at private pilot level
+  ├─ Requires ICAO-compliant licence
+  ├─ No further testing required
+  └─ Issues U.S. Private Pilot Certificate
+        │
+        ▼
+RESULT: U.S. Private Pilot Certificate (Glider rating)
+```
+
+---
+
+## Key Takeaways
+
+| Question | Answer |
+|----------|--------|
+| **Is EASA SPL ICAO-compliant?** | ✅ Yes – meets/exceeds ICAO Annex 1, 2.9 |
+| **Is SPL at private pilot level?** | ✅ Yes |
+| **Does SPL have ICAO limitation?** | ✅ No |
+| **Can EASA medical be used?** | ✅ Yes – Part-MED Class 2 accepted |
+| **Is FAA test required?** | ✅ No – "without further showing of proficiency" |
+
+---
+
+## Sources
+
+- **ICAO Annex 1** – Personnel Licensing, Chapter 2
+- **14 CFR § 61.75** – Private pilot certificate based on foreign license
+- **FAA Order 8900.1** – Lists EASA SPL as acceptable
+- **EASA Part-SFCL** – SPL training requirements
