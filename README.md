@@ -349,3 +349,144 @@ RESULT: U.S. Private Pilot Certificate (Glider rating)
 - **14 CFR § 61.75** – Private pilot certificate based on foreign license
 - **FAA Order 8900.1** – Lists EASA SPL as acceptable
 - **EASA Part-SFCL** – SPL training requirements
+
+---
+# Appendix B: ICAO & BASA Legal Framework for EASA PPL to FAA Conversion
+
+*Legal basis for EASA Part-FCL PPL(A) → FAA Private Pilot Certificate under ICAO Annex 1 and FAA-EASA BASA/TIP-L*
+
+---
+
+## ICAO Annex 1 – Personnel Licensing
+
+**Chapter 2 – Licences and Ratings for Pilots**
+
+**2.3 Private pilot licence (aeroplane)** – ICAO requires:
+- Minimum age: **17 years**
+- ICAO **Class 2 Medical**
+- Theoretical knowledge & flight skill demonstration
+
+> *“The essential requirements apply to pilot qualification, training, and fitness as specified in chapters 2 and 6 of ICAO Annex 1.”*
+
+### EASA PPL – ICAO Compliance
+
+| ICAO Standard | EASA Part-FCL (PPL) | Status |
+|---------------|---------------------|--------|
+| Private pilot licence (aeroplane) | PPL(A) | ✅ |
+| ICAO Class 2 medical | Part-MED Class 2 | ✅ |
+| ICAO compliance statement | *“This licence complies with ICAO standards”* | ✅ |
+
+> *“PPL — the Private Pilot Licence is the classic pathway. It follows **ICAO standards and is recognised globally**.”* — EASA
+
+---
+
+## FAA-EASA BASA / TIP‑L
+
+### The Agreement
+
+The **U.S.–EU Bilateral Aviation Safety Agreement (BASA)** , through **Annex 3 – Pilot Licensing**, enables reciprocal acceptance of private pilot licences between EASA and the FAA.
+
+> *“The Pilot Licensing Annex (Annex 3) enables reciprocal acceptance of **private pilot licenses, as well as night and instrument ratings**, by both EASA and the FAA.”*
+
+### AC 61-143 – Primary FAA Guidance
+
+**FAA Advisory Circular 61-143** describes the procedures for converting an EU Part-FCL pilot license to an FAA pilot certificate.
+
+> *“This AC describes how this conversion process is **different from** the process for obtaining an FAA pilot certificate issued on the basis of a foreign pilot license under 14 CFR § 61.75 **and for which the FAA certificate is limited by the foreign license**.”*
+
+---
+
+## 14 CFR § 61.75 – The Conversion
+
+### § 61.75(a) – General
+
+> *“A person who holds a current foreign pilot license issued by a contracting State to the Convention on International Civil Aviation may apply for and be issued a private pilot certificate with the appropriate ratings.”*
+
+### § 61.75(b) – Issuance Requirements
+
+> *“…may be issued a private pilot certificate based on the foreign pilot license **without any further showing of proficiency**, provided the applicant:*
+>
+> *(2) Holds a foreign pilot license that … **Does not contain an endorsement stating that the applicant has not met all of the standards of ICAO** for that license;*
+>
+> *(3) Does not currently hold a U.S. pilot certificate;*
+>
+> *(4) Holds a current medical certificate … issued by the country that issued the person's foreign pilot license;*
+>
+> *(5) Is able to read, speak, write, and understand the English language.”*
+
+### § 61.75(c) – Aircraft Ratings
+
+> *“Aircraft ratings listed on a person's foreign pilot license … may be placed on that person's U.S. pilot certificate.”*
+
+### § 61.75(d) – Instrument Ratings
+
+> *“A person who holds an instrument rating on the foreign pilot license may be issued an instrument rating … provided: (1) The person's foreign pilot license authorizes instrument privileges; (2) Within 24 months preceding application, the person passes the appropriate knowledge test.”*
+
+### § 61.75(e) – Operating Limitations
+
+> *“A person who receives a U.S. private pilot certificate … (3) Is subject to the **limitations and restrictions on the person's U.S. certificate and foreign pilot license**.”*
+
+> *“Shall not exercise the privileges of that U.S. private pilot certificate when the person's foreign pilot license has been revoked or suspended.”*
+
+---
+
+## Legal Chain Summary
+
+```
+ICAO Annex 1 (2.3)
+  │
+  ├─ Recognises "Private pilot licence (aeroplane)"
+  ├─ Requires ICAO Class 2 medical
+  └─ Minimum age 17
+        │
+        ▼
+EASA Part-FCL (PPL)
+  │
+  ├─ Follows ICAO standards (EASA statement)
+  ├─ Part-MED Class 2 = ICAO Class 2
+  └─ Licence states: "This licence complies with ICAO standards"
+        │
+        ▼
+FAA-EASA BASA / TIP-L (Annex 3)
+  │
+  ├─ Enables reciprocal acceptance of PPL
+  ├─ Covers night and instrument ratings
+  └─ AC 61-143 provides conversion procedures
+        │
+        ▼
+14 CFR § 61.75 (FAA)
+  │
+  ├─ Requires foreign licence at private pilot level
+  ├─ Requires ICAO-compliant licence
+  ├─ No further testing required
+  └─ Issues U.S. Private Pilot Certificate
+        │
+        ▼
+RESULT: U.S. Private Pilot Certificate (Airplane rating)
+```
+
+---
+
+## Key Takeaways
+
+| Question | Answer |
+|----------|--------|
+| **Is EASA PPL ICAO-compliant?** | ✅ Yes – *“follows ICAO standards and is recognised globally”* |
+| **Is PPL at private pilot level?** | ✅ Yes – by definition |
+| **Does PPL have ICAO limitation?** | ✅ No – “This licence complies with ICAO standards” |
+| **Can EASA medical be used?** | ✅ Yes – Part-MED Class 2 accepted |
+| **Is FAA test required?** | ✅ No – *“without any further showing of proficiency”* |
+| **What ratings transfer?** | Aircraft ratings; Instrument rating requires FAA knowledge test |
+
+---
+
+## Sources
+
+| Source | Reference |
+|--------|-----------|
+| **ICAO Annex 1** | Personnel Licensing, Chapter 2 |
+| **EASA Statement** | PPL follows ICAO standards, recognised globally |
+| **FAA-EASA BASA Annex 3** | Reciprocal acceptance of private pilot licences |
+| **FAA AC 61-143** | Conversion procedures for EU Part-FCL to FAA |
+| **14 CFR § 61.75** | Private pilot certificate based on foreign license |
+| **FAA IACRA** | CFR 61.75 application guidance |
