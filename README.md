@@ -38,7 +38,7 @@ The FAA's **Order 8900.1** (Volume 5, Chapter 2, Section 4) explicitly lists the
 | Licence | ICAO Compliant? | Private Pilot Level? |
 |---------|-----------------|---------------------|
 | EASA SPL | **Yes** | **Yes** |
-| EASA LAPL(S) | **No** | **No** (sub-ICAO) |
+| EASA LAPL(A) | **No** | **No** (sub-ICAO) |
 | EASA PPL(A) | **Yes** | **Yes** |
 | FAA Sport Pilot | **No** | **No** |
 
