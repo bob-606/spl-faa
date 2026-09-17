@@ -14,7 +14,7 @@
 |----------|--------|
 | Is SPL at private pilot level? | **Yes** – EASA SPL allows private pilot privileges, carriage of passengers, and is ICAO-compliant |
 | Does FAA accept it? | **Yes** – FAA Order 8900.1 explicitly lists EASA SPL as acceptable for conversion |
-| What about LAPL(S)? | **No** – LAPL(S) is sub-ICAO and not eligible for conversion |
+| What about LAPL(A)? | **No** – LAPL(A) is sub-ICAO and not eligible for conversion |
 
 ---
 
@@ -140,7 +140,7 @@ Print from IACRA or download from FAA website.
 | Your Licence | ICAO Compliant? | Private Pilot Level? | Eligible for § 61.75? |
 |--------------|-----------------|---------------------|----------------------|
 | **EASA SPL** | ✅ Yes | ✅ Yes | ✅ Yes |
-| EASA LAPL(S) | ❌ No | ❌ No | ❌ No |
+| EASA LAPL(A) | ❌ No | ❌ No | ❌ No |
 | FAA Sport Pilot | ❌ No | ❌ No | N/A |
 
 ---
